@@ -6,4 +6,4 @@ HTML: Estruturação da página web, definindo os elementos onde as informaçõe
 
 CSS: Estilização do site, garantindo uma apresentação visual agradável e responsiva.
 
-link do site: https://lnkd.in/g_qruiEQ
+link do site: https://checktheclima.netlify.app/
